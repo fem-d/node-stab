@@ -7,7 +7,7 @@
 
 ## Usage
 
-Create a static server on current path: `> stab`
+Create a static server on current path: `> stab`, now you can access it from `http://localhost:8080`
 
 
 ## Documentation
