@@ -2,7 +2,7 @@
 
 ## Installation
 ```sh
-npm install -g fem-d/node-stab`
+npm install -g fem-d/node-stab
 ```
 
 
